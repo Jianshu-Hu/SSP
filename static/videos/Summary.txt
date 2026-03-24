@@ -1,0 +1,5 @@
+This multimedia attachment presents real-world experimental validation of the proposed control framework using the da Vinci Research Kit (dVRK). 
+The videos demonstrate robust needle picking and gauze retrieval tasks where Control Barrier Functions (CBF) ensure collision avoidance against spherical and cylindrical obstacles. 
+Additionally, a multi-stage suturing sequence highlights the integration of Reinforcement Learning with Control Lyapunov Functions (CLF) for precise needle insertion. 
+Finally, a mock lung tumor resection experiment illustrates the controller's ability to maintain safety boundaries around sensitive vascular structures while executing cutting trajectories. 
+These experiments collectively validate the efficacy of the combined RL, CLF, and CBF approach in automating complex surgical subtasks.
